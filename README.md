@@ -1,6 +1,4 @@
-# portfolio-var-risk
-Python tool that measures volatility, risk contribution, and 1-day Value-at-Risk (historical, parametric, and Monte Carlo) for a small stock portfolio, with an out-of-sample backtest and Kupiec test.
-Portfolio Volatility and Value-at-Risk (Python)
+#Portfolio Volatility and Value-at-Risk (Python)
 
 File: portfolio_risk_v2.py
 
